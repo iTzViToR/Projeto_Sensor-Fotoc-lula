@@ -1,6 +1,6 @@
 ## Projeto_Sensor-Fotocélula
 ## Figura 1: Simulador () 
-![Sensor Fotocélula]()
+![]()
 :---:
 |Autores: Vitor, Higor, Lucas e Julia|
 ## Figura 2: Protoboard ()
