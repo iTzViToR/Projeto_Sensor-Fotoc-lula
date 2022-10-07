@@ -8,7 +8,7 @@ Ligado![ESQUEMATICO FOTOCELULA LIGADO](https://user-images.githubusercontent.com
 :---:
 |Autores: Vitor, Higor, Lucas, Julia e Samuel|
 ## Figura 2: Protoboard 
-![]()
+![Fotocelula]()
 :---:
 |Autores: Vitor, Higor, Lucas, Julia e Samuel|
 ## Figura 3: Esquemático ()
